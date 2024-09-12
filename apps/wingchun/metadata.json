@@ -5,6 +5,7 @@
   "version": "0.01",
   "description": "Stream data from the watch to the terra websocket",
   "icon": "app.png",
+  "type": "app",
   "tags": "",
   "supports": ["BANGLEJS2"],
   "readme": "README.md",

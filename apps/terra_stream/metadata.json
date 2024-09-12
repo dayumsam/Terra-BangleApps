@@ -1,0 +1,15 @@
+{
+  "id": "wingchun",
+  "name": "Terra Stream",
+  "shortName": "",
+  "version": "0.01",
+  "description": "Stream data from the watch to the terra websocket",
+  "icon": "app.png",
+  "tags": "",
+  "supports": ["BANGLEJS2"],
+  "readme": "README.md",
+  "storage": [
+    { "name": "wingchun.app.js", "url": "app.js" },
+    { "name": "wingchun.img", "url": "app-icon.js", "evaluate": true }
+  ]
+}
